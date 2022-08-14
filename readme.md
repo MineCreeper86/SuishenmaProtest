@@ -1,4 +1,10 @@
+我英语不好，若发现我的英文翻译不准确可以提交Pull Request帮忙修改！
+
+My English skill is weak, if the translate is not accurate, please create a new Pull Request in order to help.
+
 本仓库用于对上海随申码信息泄露事件中的处理表达不满的游行活动。但请注意，请勿诬告陷害。
+
+This repository is for the protest that expresses the anger for the result in Suishenma (Shanghai Health Code) data leak-out. But attention, don't make malicious prosecution.
 
 > **《中华人民共和国宪法》 第三十三条** 凡具有中华人民共和国国籍的人都是中华人民共和国公民。
 中华人民共和国公民在法律面前一律平等。
@@ -11,9 +17,13 @@
 对于公民的申诉、控告或者检举，有关国家机关必须查清事实，负责处理。任何人不得压制和打击报复。
 由于国家机关和国家工作人员侵犯公民权利而受到损失的人，有依照法律规定取得赔偿的权利。
 
-# 这是什么事件？
+The laws associated with this protest.
+
+# 这是什么事件？ What happened?
 
 2022年8月10日，某论坛网站上出现疑似兜售上海公民个人信息（包括姓名、手机号、身份证号、通行状态、经纬度等）的[帖子](https://breached.to/Thread-VERIFIED-Shanghai-Suishenma-%E9%9A%8F%E7%94%B3%E7%A0%81-QR-code-48-5M-unique-users)，并且声称拥有4850万去重信息，售价~~4850（原）~~4000美元。
+
+on Aug.10 2022, a forum website appeared an [article](https://breached.to/Thread-VERIFIED-Shanghai-Suishenma-%E9%9A%8F%E7%94%B3%E7%A0%81-QR-code-48-5M-unique-users) which was suspected to sell Shanghai people's personal information (including name, phone number, id, health status and position), and said that he had 48.5M people's data that was not duplicated, priced 4850(previous) 4000 dollars.
 
 2022年8月12日，南方都市报发表报导：[网传“4850万用户上海随申码泄露” 上海大数据中心：不是我们泄露的](https://chinadigitaltimes.net/chinese/685610.html)，其证实了数据的真实性，并且提到了大数据中心的立场，但随即被审查，相关讨论帖子也在不久后被删除。**事件不了了之。**
 
