@@ -4,7 +4,7 @@ My English skill is weak, if the translation is not accurate, please create a ne
 
 本仓库用于对上海随申码信息泄露事件中的处理表达不满的游行活动。但请注意，请勿诬告陷害。
 
-This repository is for the protest that expresses the anger for the result in Suishenma (Shanghai Health Code) data leak-out. But attention, don't make malicious prosecution.
+This repository is for the protest that expresses the unhappiness for the result in Suishenma (Shanghai Health Code) data leak-out. But attention, don't make malicious prosecution.
 
 > **《中华人民共和国宪法》 第三十三条** 凡具有中华人民共和国国籍的人都是中华人民共和国公民。
 中华人民共和国公民在法律面前一律平等。
@@ -27,15 +27,17 @@ On Aug.10 2022, a forum website appeared an [article](https://breached.to/Thread
 
 2022年8月12日，南方都市报发表报导：[网传“4850万用户上海随申码泄露” 上海大数据中心：不是我们泄露的](https://chinadigitaltimes.net/chinese/685610.html)，其证实了数据的真实性，并且提到了大数据中心的立场，但随即被审查，相关讨论帖子也在不久后被删除。**事件不了了之。**
 
-On Aug.12 2022, Southern Metropolis Daily posted an report: [Netizens are saying that '48.5M users' Shanghai Suishenma leaked out', Shanghai Bigdata Center：These were't leaked out by us](https://chinadigitaltimes.net/chinese/685610.html) (Source language ZH-CN), the report confirmed the data is true and suggested the opinions from Bigdata Center, but had been deleted later together with associated discussions. **It concluded without any conclusion**
+On Aug.12 2022, Southern Metropolis Daily posted an report: [Netizens are saying that '48.5M users' Shanghai Suishenma leaked out', Shanghai Bigdata Center：These were't leaked out by us](https://chinadigitaltimes.net/chinese/685610.html) (Source language ZH-CN), the report confirmed the data is true and suggested the opinions from Bigdata Center, but had been deleted later together with associated discussions. **It concluded without any conclusion.**
 
-# 这件事和我有什么关系？ Did it have something to do with you?
+# 这件事和我有什么关系？ Did it have sth to do with me?
 
 2022年8月13日，我了解到此事并从帖子中找到并下载了发布者留下的500万条[示例信息 (已失效，Issue#3)](https://gofile.io/d/ziR7AG)，通过搜索熟人信息，确认了内容属实。
 
 On Aug.13 2022, I knew this thing and found, downloaded [Sample Data (Unavailable, Issue#3)](https://gofile.io/d/ziR7AG) that contains 5M records published by the author. I comfirmed that the data was true by searching the people I recognized.
 
 2022年8月14日，在社工库中首次查到了我的个人信息，完全属实。部分熟人表示身份证一致但手机号并非本人使用。
+
+On Aug.14 2022, I successfully searched my personal information from Shegongku (A tool to get a person's privacy by illegal ways) and it 100% matches. Some recognized people said the ID was true but the phone number is false.
 
 # 我想说些什么？我期待什么结果？
 
