@@ -1,6 +1,6 @@
 我英语不好，若发现我的英文翻译不准确可以提交Pull Request帮忙修改！
 
-My English skill is weak, if the translate is not accurate, please create a new Pull Request in order to help.
+My English skill is weak, if the translation is not accurate, please create a new Pull Request in order to help.
 
 本仓库用于对上海随申码信息泄露事件中的处理表达不满的游行活动。但请注意，请勿诬告陷害。
 
@@ -31,7 +31,9 @@ On Aug.12 2022, Southern Metropolis Daily posted an report: [Netizens are saying
 
 # 这件事和我有什么关系？ Did it have something to do with you?
 
-2022年8月13日，我了解到此事并从帖子中找到并下载了发布者留下的500万条[示例信息](https://gofile.io/d/ziR7AG)，通过搜索熟人信息，确认了内容属实。
+2022年8月13日，我了解到此事并从帖子中找到并下载了发布者留下的500万条[示例信息 (已失效，Issue#3)](https://gofile.io/d/ziR7AG)，通过搜索熟人信息，确认了内容属实。
+
+On Aug.13 2022, I knew this thing and found, downloaded [Sample Data (Unavailable, Issue#3)](https://gofile.io/d/ziR7AG) that contains 5M records published by the author. I comfirmed that the data was true by searching the people I recognized.
 
 2022年8月14日，在社工库中首次查到了我的个人信息，完全属实。部分熟人表示身份证一致但手机号并非本人使用。
 
