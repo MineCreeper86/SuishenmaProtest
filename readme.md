@@ -29,11 +29,11 @@ On Aug.10 2022, a forum website appeared an [article](https://breached.to/Thread
 
 On Aug.12 2022, Southern Metropolis Daily posted an report: [Netizens are saying that '48.5M users' Shanghai Suishenma leaked out', Shanghai Bigdata Center：These were't leaked out by us](https://chinadigitaltimes.net/chinese/685610.html) (Source language ZH-CN), the report confirmed the data is true and suggested the opinions from Bigdata Center, but had been deleted later together with associated discussions. **It concluded without any conclusion.**
 
-# 这件事和我有什么关系？ Did it have sth to do with me?
+# 这件事和我有什么关系？ Anything to do with me?
 
-2022年8月13日，我了解到此事并从帖子中找到并下载了发布者留下的500万条[示例信息 (已失效，Issue#3)](https://gofile.io/d/ziR7AG)，通过搜索熟人信息，确认了内容属实。
+2022年8月13日，我了解到此事并从帖子中找到并下载了发布者留下的500万条示例信息，但是现已失效，但是我传了一份备份到[这里](https://mega.nz/file/BTNxhZbS#gfS9lEJsmuXc9dmSmiZ0bxgBplGa__OCiBE9MuzS-N8)。
 
-On Aug.13 2022, I knew this thing and found, downloaded [Sample Data (Unavailable, Issue#3)](https://gofile.io/d/ziR7AG) that contains 5M records published by the author. I comfirmed that the data was true by searching the people I recognized.
+On Aug.13 2022, I knew this thing and found, and downloaded Sample Data that contains 5M records published by the author. The original link is not working now. So I've upload the file again. Please go to [here](https://mega.nz/file/BTNxhZbS#gfS9lEJsmuXc9dmSmiZ0bxgBplGa__OCiBE9MuzS-N8) to download the example file. I comfirmed that the data was true by searching the people I recognized.
 
 2022年8月14日，在社工库中首次查到了我的个人信息，完全属实。部分熟人表示身份证一致但手机号并非本人使用。
 
@@ -41,9 +41,9 @@ On Aug.14 2022, I successfully searched my personal information from Shegongku (
 
 # 我想说些什么？我期待什么结果？
 
-我出生14年7个月，在此期间一丝不苟地保护自己的隐私，却得到了政府对其粗暴的践踏。
+我出生14年，在此期间一丝不苟地保护自己的隐私，却得到了政府对其粗暴的践踏。
 
-我明白此事件造成的损失已经不可逆转，但是我希望政府能够诚挚公开道歉，并加强隐私保护工作。
+我明白此事件造成的损失已经不可逆转，但是我希望政府能够诚挚公开道歉，并加强隐私保护工作。~~（但是感觉希望不大）~~
 
 ### 我将为维权选择一切可能的手段。
 
