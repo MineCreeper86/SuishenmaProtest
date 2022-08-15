@@ -39,14 +39,22 @@ On Aug.13 2022, I knew this thing and found, and downloaded Sample Data that con
 
 On Aug.14 2022, I successfully searched my personal information from Shegongku (A tool to get a person's privacy by illegal ways) and it 100% matches. Some recognized people said the ID was true but the phone number is false.
 
-# 我想说些什么？我期待什么结果？
+# 我想说些什么？我期待什么结果？ What to say? What to expect?
 
 我出生14年，在此期间一丝不苟地保护自己的隐私，却得到了政府对其粗暴的践踏。
 
-我明白此事件造成的损失已经不可逆转，但是我希望政府能够诚挚公开道歉，并加强隐私保护工作。~~（但是感觉希望不大）~~
+I have been on the Earth for 14 years, in this period I have protected my privacy carefully, but in return, government did't take any care.
+
+我明白此事件造成的损失已经不可逆转，但是我希望政府能够诚挚公开道歉，并加强隐私保护工作。
+
+I know the lose in this thing is no longer reversible, but I hope the government can honestly apologize in public and stronger the privacy protection.
 
 ### 我将为维权选择一切可能的手段。
 
-# 我如何参与游行？
+### I will do anything possible to protect my rights.
 
-**Star**以表达支持，**Discussion**中表达意见。
+# 我如何参与游行？ How to take part in?
+
+**Star**以表达支持，**Discussions**中表达意见。
+
+**Star** to show support, talk about your opinions in **Discussions**.
