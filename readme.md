@@ -2,6 +2,8 @@
 
 My English skill is weak, if the translation is not accurate, please create a new Pull Request in order to help.
 
+![Github stars](https://img.shields.io/github/stars/MineCreeper86/SuishenmaProtest.svg)
+
 本仓库用于对上海随申码信息泄露事件中的处理表达不满的游行活动。但请注意，请勿诬告陷害。
 
 This repository is for the protest that expresses the unhappiness for the result in Suishenma (Shanghai Health Code) data leak-out. But attention, don't make malicious prosecution.
@@ -37,7 +39,7 @@ On Aug.13 2022, I knew this thing and found, and downloaded Sample Data that con
 
 2022年8月14日，在社工库中首次查到了我的个人信息，完全属实。部分熟人表示身份证一致但手机号并非本人使用。
 
-On Aug.14 2022, I successfully searched my personal information from Shegongku (A tool to get a person's privacy by illegal ways) and it 100% matches. Some recognized people said the ID was true but the phone number is false.
+On Aug.14 2022, I successfully searched my personal information from Shegongku (A tool to get a person's privacy by illegal ways) and it 100% matches. Some recognized people said the ID was true but the phone number was false.
 
 # 我想说些什么？我期待什么结果？ What to say? What to expect?
 
