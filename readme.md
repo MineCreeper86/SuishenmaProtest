@@ -13,13 +13,22 @@ This repository is for the protest that expresses the unhappiness for the result
 国家尊重和保障人权。
 任何公民享有宪法和法律规定的权利，同时必须履行宪法和法律规定的义务。
 
+> **《Constitution of the People's Republic of China》 Article 33** All persons holding the nationality of the People’s Republic of China are citizens of the People’s Republic of China.
+All citizens of the People’s Republic of China are equal before the law.
+The state shall respect and protect human rights.
+Every citizen shall enjoy the rights prescribed by the Constitution and the law and must fulfill the obligations prescribed by the Constitution and the law.
+
 > **《中华人民共和国宪法》 第三十五条** 中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由。
+
+> **《Constitution of the People's Republic of China》 Article 35** Citizens of the People’s Republic of China shall enjoy freedom of speech, the press, assembly, association, procession and demonstration.
 
 > **《中华人民共和国宪法》 第四十一条** 中华人民共和国公民对于任何国家机关和国家工作人员，有提出批评和建议的权利；对于任何国家机关和国家工作人员的违法失职行为，有向有关国家机关提出申诉、控告或者检举的权利，但是不得捏造或者歪曲事实进行诬告陷害。
 对于公民的申诉、控告或者检举，有关国家机关必须查清事实，负责处理。任何人不得压制和打击报复。
 由于国家机关和国家工作人员侵犯公民权利而受到损失的人，有依照法律规定取得赔偿的权利。
 
-The laws associated with this protest.
+> **《Constitution of the People's Republic of China》 Article 41** Citizens of the People’s Republic of China shall have the right to criticize and make suggestions regarding any state organ or state employee, and have the right to file with relevant state organs complaints, charges or reports against any state organ or state employee for violations of the law or dereliction of duty, but they shall not fabricate or distort facts to make false accusations.
+The state organ concerned must ascertain the facts concerning the complaints, charges or reports made by citizens and take responsibility for their handling. No one shall suppress such complaints, charges or reports or take retaliatory action.
+Persons who have suffered losses resulting from infringement of their civil rights by any state organ or state employee shall have the right to receive compensation in accordance with the provisions of law.
 
 # 这是什么事件？ What happened?
 
