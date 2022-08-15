@@ -33,7 +33,7 @@ On Aug.12 2022, Southern Metropolis Daily posted an report: [Netizens are saying
 
 # 这件事和我有什么关系？ Anything to do with me?
 
-2022年8月13日，我了解到此事并从帖子中找到并下载了发布者留下的500万条示例信息，但是现已失效，但是我传了一份备份到[这里](https://mega.nz/file/BTNxhZbS#gfS9lEJsmuXc9dmSmiZ0bxgBplGa__OCiBE9MuzS-N8)。
+2022年8月13日，我了解到此事并从帖子中找到并下载了发布者留下的500万条示例信息，但是现已失效，但是我传了一份备份到[这里](https://mega.nz/file/BTNxhZbS#gfS9lEJsmuXc9dmSmiZ0bxgBplGa__OCiBE9MuzS-N8)。通过对比熟人信息，确认了其数据属实。
 
 On Aug.13 2022, I knew this thing and found, and downloaded Sample Data that contains 5M records published by the author. The original link is not working now. So I've upload the file again. Please go to [here](https://mega.nz/file/BTNxhZbS#gfS9lEJsmuXc9dmSmiZ0bxgBplGa__OCiBE9MuzS-N8) to download the example file. I comfirmed that the data was true by searching the people I recognized.
 
